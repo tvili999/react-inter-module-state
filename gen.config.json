@@ -1,0 +1,7 @@
+{
+    "react-templates": {
+        "contexts": "src",
+        "components": "src",
+        "library": true
+    }
+}

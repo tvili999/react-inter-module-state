@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "es6",
+		"target": "es2015",
+		"baseUrl": "./",
+		"paths": {
+			"react-inter-module-state/*": ["src/*"]
+		}
+	},
+	"exclude": ["node_modules"]
+}
